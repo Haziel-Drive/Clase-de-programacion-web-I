@@ -13,6 +13,7 @@ body{
     justify-items: center;
     align-items: center;
     justify-content: center;
+    text-align: center;
 }
 
 h1{ 
@@ -22,6 +23,10 @@ h1{
 h2{ 
     font-size: 1.2rem;
     color: #718096;
+}
+
+a{
+    text-decoration: none;
 }
 
 .musica img{
@@ -100,4 +105,5 @@ h2{
 .tabla th, .tabla td{
     border: 1px solid #949598;
 }
+
 */
